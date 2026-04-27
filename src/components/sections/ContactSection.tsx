@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { Mail, Twitter, Linkedin, Github } from "lucide-react";
+import { Mail, Twitter, Linkedin, Github, Telegram } from "lucide-react";
 import { SocialLink } from "../ui/SocialLink";
 
 export function ContactSection() {
@@ -41,6 +41,7 @@ export function ContactSection() {
           <SocialLink href="https://x.com/pradumon14" icon={<Twitter className="w-5 h-5" />} label="X (Twitter)" />
           <SocialLink href="https://linkedin.com/in/pradumon14" icon={<Linkedin className="w-5 h-5" />} label="LinkedIn" />
           <SocialLink href="https://github.com/pradumon14" icon={<Github className="w-5 h-5" />} label="GitHub" />
+          <SocialLink href="https://t.me/pradumon14" icon={<Telegram className="w-5 h-5" />} label="Telegram" />
         </div>
       </div>
     </motion.section>

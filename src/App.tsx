@@ -26,7 +26,7 @@ export default function App() {
       
       <Navbar />
       
-      <main className="max-w-5xl mx-auto px-6 py-32 md:py-48 space-y-40">
+      <main className="max-w-5xl mx-auto px-6 py-20 md:py-32 space-y-32 md:space-y-48">
         <HeroSection />
         <ResearchSection />
         <ProjectsSection />

@@ -26,7 +26,7 @@ export function HeroSection() {
         transition={{ duration: 0.5, delay: 0.1 }}
         className="text-lg text-neutral-400 max-w-2xl leading-relaxed font-light"
       >
-        I am an independent AI Security Researcher and developer. My work focuses on uncovering systemic vulnerabilities in complex platforms and analyzing the emerging security boundaries of multimodal Generative AI systems. From bypassing AI safety guardrails to building intelligent security tools, I operate at the intersection of offensive security and innovative engineering.
+        I am an independent security researcher and software developer. My passion is exploring the limits of technology by finding its flaws. I've uncovered critical vulnerabilities in major platforms—from zero-click bypasses in WhatsApp to breaking the safety guardrails of Google's AI. But I don't just break systems; I build them. Whether it's crafting intelligent tools to detect zero-day phishing or designing interactive educational platforms, I thrive at the intersection of offensive security and creative engineering.
       </motion.p>
       
       <motion.div

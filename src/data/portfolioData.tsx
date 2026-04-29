@@ -75,7 +75,7 @@ export const projects: PortfolioItem[] = [
     highlight: "Built a custom pixel-to-matrix calibration tool reducing a 10-hour coordinate mapping task into 30 minutes.",
     impact: "Created a highly performant, accessible educational platform without relying on expensive, paid mapping APIs.",
     tags: ["React", "TypeScript", "SVG Engine", "Web Audio API"],
-    links: { live: "https://naksha10.vercel.app" },
+    links: { live: "https://naksha10.vercel.app", github:"https://github.com/pradumon14/Naksha" },
     icon: <Map className="w-7 h-7" />
   },
   {
